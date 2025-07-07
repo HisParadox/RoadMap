@@ -1,0 +1,3 @@
+- [Falstad Simulator](https://falstad.com/circuit/)
+- [JLCPCB](https://jlcpcb.com)
+- [KiCad](https://kicad.org)

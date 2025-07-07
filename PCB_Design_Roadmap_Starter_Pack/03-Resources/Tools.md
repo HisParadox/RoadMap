@@ -1,0 +1,3 @@
+- KiCad
+- EasyEDA
+- LTSpice

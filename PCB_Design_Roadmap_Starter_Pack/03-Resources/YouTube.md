@@ -1,0 +1,5 @@
+- Phil’s Lab
+- Robert Feranec
+- Altium Academy
+- EEVblog
+- Contextual Electronics
